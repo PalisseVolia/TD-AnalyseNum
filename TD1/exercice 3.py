@@ -1,6 +1,7 @@
 import math
 import matplotlib.pyplot as plt
 import matplotlib as mpl
+#Note importation library : py -m pip install -U matplotlib
 
 #%%
 #Question 1
