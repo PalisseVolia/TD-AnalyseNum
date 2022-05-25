@@ -4,6 +4,7 @@ from turtle import color
 import matplotlib.pyplot as plt
 import numpy as np
 import numpy.linalg as alg
+
 N = 10;
 DX = 1/(N+1)
 
